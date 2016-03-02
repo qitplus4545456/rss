@@ -1,0 +1,15 @@
+﻿                body {
+            padding: 0;
+            margin: 0;
+        }
+
+        html, body, #form1, #map {
+            height: 100%;
+            width: 100%;
+        }
+                #custom-zoom-control {
+            position: absolute;
+            right: 10px; 
+            bottom: 50px; 
+            z-index: 10;
+        }
